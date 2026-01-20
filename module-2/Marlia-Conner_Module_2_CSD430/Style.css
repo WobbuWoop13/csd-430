@@ -1,0 +1,37 @@
+/* Kyle Marlia-Conner
+   06/01/2025
+   Module 2 */
+
+/* Parchment-like background */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f9f5e3;
+    color: #2f2f2f;
+    margin: 30px;
+}
+
+/* Brown/Gold to evoke old map colour */
+h1 {
+    color: #5b3e1d;
+    margin-bottom: 10px;
+}
+
+/* Slightest shadow for added depth */
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #6d6a57;
+    text-align: left;
+    background-color: #fdfaf1;
+}
+
+th {
+    background-color: #c2b280;
+    color: #2f2f2f;
+}
