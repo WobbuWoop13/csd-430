@@ -24,8 +24,6 @@ Rather than serving as a single deployable application, this repository highligh
 - Server-side rendering of dynamic content  
 - Understanding the JSP request/response lifecycle  
 
-➡️ *Establishes the foundation for all subsequent server-side modules.*
-
 ---
 
 ### 🔹 Module 2 – JSP Forms & Request Processing
@@ -35,8 +33,6 @@ Rather than serving as a single deployable application, this repository highligh
 - HTML form submission  
 - Request parameter processing in JSP  
 - Dynamic output generation  
-
-➡️ *Introduces user interaction and server-side data handling.*
 
 ---
 
@@ -48,8 +44,6 @@ Rather than serving as a single deployable application, this repository highligh
 - JSP integration with backend objects  
 - MVC-style application structure  
 
-➡️ *Transitions from simple JSP pages to structured server-side applications.*
-
 ---
 
 ### 🔹 Module 6 – JDBC Database Integration
@@ -60,8 +54,6 @@ Rather than serving as a single deployable application, this repository highligh
 - Executing SQL queries from Java  
 - Rendering database-driven content in JSP  
 
-➡️ *Introduces persistence and real data flow into the application.*
-
 ---
 
 ### 🔹 Module 7 – Full CRUD Web Application
@@ -71,8 +63,6 @@ Rather than serving as a single deployable application, this repository highligh
 - Create, Read, Update, Delete operations  
 - Server-side form handling  
 - JDBC-powered data manipulation  
-
-➡️ *Demonstrates full server-side application functionality.*
 
 ---
 
@@ -85,8 +75,6 @@ Rather than serving as a single deployable application, this repository highligh
 - MVC-style architecture  
 - Dynamic JSP rendering  
 
-➡️ *Represents the primary application built during the course.*
-
 ---
 
 ### 🔹 Module 9 – Enhanced Movie Database Application
@@ -96,8 +84,6 @@ Rather than serving as a single deployable application, this repository highligh
 - Improved application structure  
 - Cleaner data handling  
 - Preparation for production-style improvements  
-
-➡️ *Final evolution of the Movie Database application.*
 
 ---
 
